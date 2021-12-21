@@ -11,9 +11,7 @@
     <li>turtle</li>
     <li>math</li>
 </ul>
-
 <br>
-
 ## What you will need
 
 A computer capable of accessing the [trinket.io](https://trinket.io/) website
