@@ -14,5 +14,18 @@
 
 <br>
 
+## What you will need
 
-[![Github All Releases](https://img.shields.io/github/downloads/dikshitakambri/Graphics-using-Python/total.svg)]()
+A computer capable of accessing the [trinket.io](https://trinket.io/) website
+
+or
+
+A computer that has Python 3 installed
+
+## Create a new Trinket
+
+Open the [blank Python template trinket](http://jumpto.cc/python-new).
+
+## More Turtle
+
+[Official Documentation](https://docs.python.org/3/library/turtle.html)
