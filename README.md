@@ -1,5 +1,5 @@
-# Python-Turtle-Design
-<h1>Python Turtle Graphics</h1>
+## Python-Turtle-Design
+<h2>Python Turtle Graphics</h2>
 
 <h4>Languages Used</h4>
 <ul>
