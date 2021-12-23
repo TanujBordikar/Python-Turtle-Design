@@ -1,5 +1,6 @@
 ## Python-Turtle-Design
-<h2>Python Turtle Graphics</h2>
+<br>
+### Python Turtle Graphics
 
 <h4>Languages Used</h4>
 <ul>
