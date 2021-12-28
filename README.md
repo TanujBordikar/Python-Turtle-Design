@@ -1,5 +1,4 @@
 ## Python-Turtle-Design
-<br>
 
 ### Python Turtle Graphics
 
